@@ -1,0 +1,213 @@
+﻿  main.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  AbstractBehaviour.cpp
+  KeysBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  RotatingBehaviour.cpp
+  AbstractGame.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\mge_v18_student_version\src\mge\core\abstractgame.cpp(48): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Camera.cpp
+  GameObject.cpp
+  Light.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Mesh.cpp
+  Renderer.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  ShaderProgram.cpp
+  Texture.cpp
+  World.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  AbstractMaterial.cpp
+  ColorMaterial.cpp
+  TextureMaterial.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  MGEDemo.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  DebugHud.cpp
+  AssignmentScene.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  CameraOrbitBehaviour.cpp
+e:\3dengineproject2\mge_v18_student_version\_vs2015\cameraorbitbehaviour.cpp(101): warning C4018: '>=': signed/unsigned mismatch
+e:\3dengineproject2\mge_v18_student_version\_vs2015\cameraorbitbehaviour.cpp(101): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+e:\3dengineproject2\mge_v18_student_version\_vs2015\cameraorbitbehaviour.cpp(104): warning C4018: '>=': signed/unsigned mismatch
+e:\3dengineproject2\mge_v18_student_version\_vs2015\cameraorbitbehaviour.cpp(104): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+e:\3dengineproject2\mge_v18_student_version\_vs2015\cameraorbitbehaviour.cpp(110): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+e:\3dengineproject2\mge_v18_student_version\_vs2015\cameraorbitbehaviour.cpp(111): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Generating Code...
+  Compiling...
+  Collider.cpp
+  ControllerBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  EnvTreadmillBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Gamepad.cpp
+  GameScene.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(75): warning C4305: '=': truncation from 'double' to 'float'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(76): warning C4305: '=': truncation from 'double' to 'float'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(77): warning C4305: '=': truncation from 'double' to 'float'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(213): warning C4305: 'argument': truncation from 'double' to 'const b3Scalar'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(219): warning C4305: 'argument': truncation from 'double' to 'const b3Scalar'
+e:\3dengineproject2\mge_v18_student_version\_vs2015\gamescene.cpp(796): warning C4018: '<': signed/unsigned mismatch
+e:\3dengineproject2\mge_v18_student_version\_vs2015\gamescene.cpp(808): warning C4018: '<': signed/unsigned mismatch
+  Hud.cpp
+e:\3dengineproject2\mge_v18_student_version\_vs2015\hud.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  loadLevelBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  MusicManager.cpp
+  ObstacleCarBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  PickupBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  PositionTrackerBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Resource.cpp
+  ResourceManager.cpp
+e:\3dengineproject2\mge_v18_student_version\_vs2015\resourcemanager.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\3dengineproject2\mge_v18_student_version\_vs2015\resourcemanager.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  Ridgidbody.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(75): warning C4305: '=': truncation from 'double' to 'float'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(76): warning C4305: '=': truncation from 'double' to 'float'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(77): warning C4305: '=': truncation from 'double' to 'float'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(213): warning C4305: 'argument': truncation from 'double' to 'const b3Scalar'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(219): warning C4305: 'argument': truncation from 'double' to 'const b3Scalar'
+  Script.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\mge_v18_student_version\_vs2015\script.cpp(474): warning C4244: 'initializing': conversion from 'lua_Integer' to 'float', possible loss of data
+  TreadmillBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Generating Code...
+e:\3dengineproject2\mge_v18_student_version\_vs2015\script.cpp(25): warning C4715: 'Script::getHud': not all control paths return a value
+e:\3dengineproject2\mge_v18_student_version\_vs2015\musicmanager.cpp(79): warning C4715: 'MusicManager::playMusic': not all control paths return a value
+e:\3dengineproject2\mge_v18_student_version\_vs2015\musicmanager.cpp(149): warning C4715: 'MusicManager::playMusicSet': not all control paths return a value
+  Generating non-SAFESEH image.
+BulletDynamics_Debug.lib(btConeTwistConstraint.obj) : warning LNK4099: PDB 'BulletDynamics.pdb' was not found with 'BulletDynamics_Debug.lib(btConeTwistConstraint.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletDynamics.pdb'; linking object as if no debug info
+BulletDynamics_Debug.lib(btGeneric6DofConstraint.obj) : warning LNK4099: PDB 'BulletDynamics.pdb' was not found with 'BulletDynamics_Debug.lib(btGeneric6DofConstraint.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletDynamics.pdb'; linking object as if no debug info
+BulletDynamics_Debug.lib(btSequentialImpulseConstraintSolver.obj) : warning LNK4099: PDB 'BulletDynamics.pdb' was not found with 'BulletDynamics_Debug.lib(btSequentialImpulseConstraintSolver.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletDynamics.pdb'; linking object as if no debug info
+BulletDynamics_Debug.lib(btTypedConstraint.obj) : warning LNK4099: PDB 'BulletDynamics.pdb' was not found with 'BulletDynamics_Debug.lib(btTypedConstraint.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletDynamics.pdb'; linking object as if no debug info
+BulletDynamics_Debug.lib(btDiscreteDynamicsWorld.obj) : warning LNK4099: PDB 'BulletDynamics.pdb' was not found with 'BulletDynamics_Debug.lib(btDiscreteDynamicsWorld.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletDynamics.pdb'; linking object as if no debug info
+BulletDynamics_Debug.lib(btRigidBody.obj) : warning LNK4099: PDB 'BulletDynamics.pdb' was not found with 'BulletDynamics_Debug.lib(btRigidBody.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletDynamics.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btCollisionAlgorithm.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btCollisionAlgorithm.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btDbvt.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btDbvt.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btDbvtBroadphase.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btDbvtBroadphase.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btDispatcher.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btDispatcher.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btOverlappingPairCache.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btOverlappingPairCache.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btQuantizedBvh.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btQuantizedBvh.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btActivatingCollisionAlgorithm.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btActivatingCollisionAlgorithm.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btBoxBoxCollisionAlgorithm.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btBoxBoxCollisionAlgorithm.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btBoxBoxDetector.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btBoxBoxDetector.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btCollisionDispatcher.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btCollisionDispatcher.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btCollisionObject.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btCollisionObject.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btCollisionWorld.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btCollisionWorld.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btCompoundCollisionAlgorithm.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btCompoundCollisionAlgorithm.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btCompoundCompoundCollisionAlgorithm.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btCompoundCompoundCollisionAlgorithm.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btConvexConcaveCollisionAlgorithm.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btConvexConcaveCollisionAlgorithm.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btConvexConvexAlgorithm.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btConvexConvexAlgorithm.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btConvexPlaneCollisionAlgorithm.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btConvexPlaneCollisionAlgorithm.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btDefaultCollisionConfiguration.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btDefaultCollisionConfiguration.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btEmptyCollisionAlgorithm.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btEmptyCollisionAlgorithm.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btHashedSimplePairCache.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btHashedSimplePairCache.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btManifoldResult.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btManifoldResult.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btSimulationIslandManager.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btSimulationIslandManager.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btSphereSphereCollisionAlgorithm.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btSphereSphereCollisionAlgorithm.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btSphereTriangleCollisionAlgorithm.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btSphereTriangleCollisionAlgorithm.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btUnionFind.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btUnionFind.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(SphereTriangleDetector.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(SphereTriangleDetector.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btBoxShape.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btBoxShape.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btBvhTriangleMeshShape.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btBvhTriangleMeshShape.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btCollisionShape.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btCollisionShape.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btConcaveShape.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btConcaveShape.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btConvexInternalShape.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btConvexInternalShape.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btConvexPolyhedron.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btConvexPolyhedron.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btConvexShape.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btConvexShape.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btOptimizedBvh.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btOptimizedBvh.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btPolyhedralConvexShape.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btPolyhedralConvexShape.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btSphereShape.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btSphereShape.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btTetrahedronShape.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btTetrahedronShape.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btTriangleCallback.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btTriangleCallback.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btTriangleMeshShape.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btTriangleMeshShape.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btGImpactCollisionAlgorithm.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btGImpactCollisionAlgorithm.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btGImpactQuantizedBvh.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btGImpactQuantizedBvh.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btTriangleShapeEx.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btTriangleShapeEx.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btContinuousConvexCollision.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btContinuousConvexCollision.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btConvexCast.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btConvexCast.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btGjkConvexCast.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btGjkConvexCast.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btGjkEpa2.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btGjkEpa2.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btGjkEpaPenetrationDepthSolver.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btGjkEpaPenetrationDepthSolver.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btGjkPairDetector.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btGjkPairDetector.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btMinkowskiPenetrationDepthSolver.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btMinkowskiPenetrationDepthSolver.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btPersistentManifold.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btPersistentManifold.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btRaycastCallback.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btRaycastCallback.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btSubSimplexConvexCast.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btSubSimplexConvexCast.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btVoronoiSimplexSolver.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btVoronoiSimplexSolver.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+BulletCollision_Debug.lib(btPolyhedralContactClipping.obj) : warning LNK4099: PDB 'BulletCollision.pdb' was not found with 'BulletCollision_Debug.lib(btPolyhedralContactClipping.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\BulletCollision.pdb'; linking object as if no debug info
+LinearMath_Debug.lib(btAlignedAllocator.obj) : warning LNK4099: PDB 'LinearMath.pdb' was not found with 'LinearMath_Debug.lib(btAlignedAllocator.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\LinearMath.pdb'; linking object as if no debug info
+LinearMath_Debug.lib(btConvexHullComputer.obj) : warning LNK4099: PDB 'LinearMath.pdb' was not found with 'LinearMath_Debug.lib(btConvexHullComputer.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\LinearMath.pdb'; linking object as if no debug info
+LinearMath_Debug.lib(btGeometryUtil.obj) : warning LNK4099: PDB 'LinearMath.pdb' was not found with 'LinearMath_Debug.lib(btGeometryUtil.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\LinearMath.pdb'; linking object as if no debug info
+LinearMath_Debug.lib(btQuickprof.obj) : warning LNK4099: PDB 'LinearMath.pdb' was not found with 'LinearMath_Debug.lib(btQuickprof.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\LinearMath.pdb'; linking object as if no debug info
+LinearMath_Debug.lib(btVector3.obj) : warning LNK4099: PDB 'LinearMath.pdb' was not found with 'LinearMath_Debug.lib(btVector3.obj)' or at 'E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe\LinearMath.pdb'; linking object as if no debug info
+  mge.vcxproj -> E:\3DEngineProject2\mge_v18_student_version\_vs2015\debug_dynamic_exe/mge.exe
