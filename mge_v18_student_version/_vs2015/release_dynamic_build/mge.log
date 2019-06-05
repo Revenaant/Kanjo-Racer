@@ -1,0 +1,147 @@
+﻿  main.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  AbstractBehaviour.cpp
+  KeysBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  RotatingBehaviour.cpp
+  AbstractGame.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\mge_v18_student_version\src\mge\core\abstractgame.cpp(48): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Camera.cpp
+  GameObject.cpp
+  Light.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Mesh.cpp
+  Renderer.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  ShaderProgram.cpp
+  Texture.cpp
+  World.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  AbstractMaterial.cpp
+  ColorMaterial.cpp
+  TextureMaterial.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  MGEDemo.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  DebugHud.cpp
+  AssignmentScene.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  CameraOrbitBehaviour.cpp
+e:\3dengineproject2\mge_v18_student_version\_vs2015\cameraorbitbehaviour.cpp(101): warning C4018: '>=': signed/unsigned mismatch
+e:\3dengineproject2\mge_v18_student_version\_vs2015\cameraorbitbehaviour.cpp(101): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+e:\3dengineproject2\mge_v18_student_version\_vs2015\cameraorbitbehaviour.cpp(104): warning C4018: '>=': signed/unsigned mismatch
+e:\3dengineproject2\mge_v18_student_version\_vs2015\cameraorbitbehaviour.cpp(104): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+e:\3dengineproject2\mge_v18_student_version\_vs2015\cameraorbitbehaviour.cpp(110): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+e:\3dengineproject2\mge_v18_student_version\_vs2015\cameraorbitbehaviour.cpp(111): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Compiling...
+  Collider.cpp
+  ControllerBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  EnvTreadmillBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Gamepad.cpp
+  GameScene.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(75): warning C4305: '=': truncation from 'double' to 'float'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(76): warning C4305: '=': truncation from 'double' to 'float'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(77): warning C4305: '=': truncation from 'double' to 'float'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(213): warning C4305: 'argument': truncation from 'double' to 'const b3Scalar'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(219): warning C4305: 'argument': truncation from 'double' to 'const b3Scalar'
+e:\3dengineproject2\mge_v18_student_version\_vs2015\gamescene.cpp(796): warning C4018: '<': signed/unsigned mismatch
+e:\3dengineproject2\mge_v18_student_version\_vs2015\gamescene.cpp(808): warning C4018: '<': signed/unsigned mismatch
+  Hud.cpp
+e:\3dengineproject2\mge_v18_student_version\_vs2015\hud.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  loadLevelBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  MusicManager.cpp
+  ObstacleCarBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  PickupBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  PositionTrackerBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Resource.cpp
+  ResourceManager.cpp
+e:\3dengineproject2\mge_v18_student_version\_vs2015\resourcemanager.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\3dengineproject2\mge_v18_student_version\_vs2015\resourcemanager.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  Ridgidbody.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(75): warning C4305: '=': truncation from 'double' to 'float'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(76): warning C4305: '=': truncation from 'double' to 'float'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(77): warning C4305: '=': truncation from 'double' to 'float'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(213): warning C4305: 'argument': truncation from 'double' to 'const b3Scalar'
+e:\3dengineproject2\mge_v18_student_version\src\mge\bulletcommoninterfaces\commongraphicsappinterface.h(219): warning C4305: 'argument': truncation from 'double' to 'const b3Scalar'
+  Script.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\mge_v18_student_version\_vs2015\script.cpp(474): warning C4244: 'initializing': conversion from 'lua_Integer' to 'float', possible loss of data
+  TreadmillBehaviour.cpp
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+e:\3dengineproject2\visualstudio2017_v3_2017_2018\vs_extended\include\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Generating code
+e:\3dengineproject2\mge_v18_student_version\_vs2015\script.cpp(25): warning C4715: 'Script::getHud': not all control paths return a value
+e:\3dengineproject2\mge_v18_student_version\_vs2015\musicmanager.cpp(149): warning C4715: 'MusicManager::playMusicSet': not all control paths return a value
+  All 3413 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  mge.vcxproj -> E:\3DEngineProject2\mge_v18_student_version\_vs2015\release_dynamic_exe/mge.exe
